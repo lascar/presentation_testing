@@ -1,0 +1,6 @@
+[submodule "checkout"]
+	path = checkout
+	url = https://github.com/lascar/checkout
+[submodule "world"]
+	path = world
+	url = https://github.com/lascar/world
